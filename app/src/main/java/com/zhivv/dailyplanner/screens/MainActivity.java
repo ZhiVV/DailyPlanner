@@ -1,4 +1,4 @@
-package com.zhivv.dailyplanner;
+package com.zhivv.dailyplanner.screens;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.widget.CalendarView;
 import android.widget.CalendarView.OnDateChangeListener;
 import android.widget.Toast;
+
+import com.zhivv.dailyplanner.R;
 
 public class MainActivity extends AppCompatActivity {
 
