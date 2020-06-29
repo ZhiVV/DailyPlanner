@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ежедневник</string>
+    <string name="note_text">Введите текст заметки</string>
+    <string name="note_details_title">Заметка</string>
+    <string name="save">Сохранить</string>
+    <string name="completed">Выполнение</string>
+    <string name="note_name">Введите название заметки</string>
+</resources>

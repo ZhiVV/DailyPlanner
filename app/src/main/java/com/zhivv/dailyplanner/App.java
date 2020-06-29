@@ -38,7 +38,15 @@ public class App extends Application {
                 .build();
 
         noteDao = database.noteDao();
-
-
     }
+
+    public NoteDao getNoteDao() {
+        return noteDao;
+    }
+
+    public void setNoteDao(NoteDao noteDao) {
+        this.noteDao = noteDao;
+    }
+
+
 }

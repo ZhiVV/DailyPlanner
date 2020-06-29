@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Daily Planner</string>
+    <string name="note_text">Please, enter note description</string>
+    <string name="note_name">Please, enter note name</string>
+    <string name="note_details_title">Note</string>
+    <string name="save">Save</string>
+    <string name="completed">Выполнение</string>
 </resources>
